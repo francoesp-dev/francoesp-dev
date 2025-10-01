@@ -24,11 +24,11 @@
 
 ###
 
-<h2 align="left">Featured Projects 🚀</h2>
+<!-- <h2 align="left">Featured Projects 🚀</h2> -->
 
 ###
 
-<p align="left">- 🛰️ CubeSat Project – On-board AI for a university nanosatellite mission.<br>- 🤖 V.E.G.A – Virtual assistant with AI & real-time inference in C/PyTorch.<br>- 🛒RumbeAR  – Local shopping app mixing discovery + e-commerce.</p>
+<!-- <p align="left">- 🛰️ CubeSat Project – On-board AI for a university nanosatellite mission.<br>- 🤖 V.E.G.A – Virtual assistant with AI & real-time inference in C/PyTorch.<br>- 🛒RumbeAR  – Local shopping app mixing discovery + e-commerce.</p> -->
 
 ###
 
